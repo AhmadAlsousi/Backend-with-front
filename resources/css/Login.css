@@ -1,0 +1,19 @@
+.img-login{
+    height: 100%;
+    width: 100%;
+}
+.img-login img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+.style-lable-login label{
+    font-size: 20px;
+    font-weight: 400;
+}
+.btn-login-inlogin{
+    background-color: #948373 !important;
+    color: white !important;
+       width: 150px;
+    height: 50px;
+}
